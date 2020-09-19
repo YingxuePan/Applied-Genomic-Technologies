@@ -14,6 +14,6 @@
 - [4.1 ChIP-seq](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_sbeppler_attempt_2018-12-13-15-42-37_BENG183_FinalProject/final.md)
 ### Chapter5 Introduction to precision medicine
 - [5.1. An overview of precision medicine](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_ebeebe_attempt_2018-12-13-14-24-45_ElishaBeebe_Markdown/ElishaBeebe_Markdown/ElishaBeebe_PrecisionMedicine_.md)
-- [5.2 Precision medicine in breast cancer]()
+- [5.2 Precision medicine in breast cancer](https://github.com/Irenexzwen/BENG183_FA2020/blob/master/Precision_medicine_in_breast_cancer.md)
 - [5.3 Precision medicine in diabetes](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_rep002_attempt_2018-12-14-16-44-00_ReyshaPatelMarkdown/ReyshaPatelMarkdown/precisionMed.md)
-- []
+- [5.4 An overview of bioinformatic methods for precision medicine]()
