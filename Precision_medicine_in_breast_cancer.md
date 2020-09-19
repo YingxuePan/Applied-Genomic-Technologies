@@ -1,12 +1,7 @@
 # Precision Medicine - Where do we go from here?
-### by Mengyi Liu (Miko)
 
-### Sections:
-##### 1. Introduction to Precision Medicine
-##### 2. Personalized Medicine through the Lens of Asthma
-##### 3. Current Hot Topics on Precision Medicine
 
-## 1. A breast cancer story
+## 1. A breast cancer story (by Mengyi Liu)
 Definition of Precision Medicine (by Dr. Su-In Lee): Tailoring of medical treatment to the individual characteristics of each patient, especially by using genetic or molecular profiling.
 
 In other words, precision medicine should account for personal variations in genomic sequence and environmental exposure.
@@ -44,9 +39,8 @@ In order to develop personalized treatment and advance the field of precision me
 - discovering disease subtypes from genetic and/or molecular data
 - building prediction models for clinical events based on electronic medical record (EMR) data
 
-## 2\. The history of breast cancer treatment 
-Kelsey Dang, Katy Zou, Diego Quintero
-12/9/2019
+## 2\. The history of breast cancer treatment （by Kelsey Dang, Katy Zou, Diego Quintero）
+
 
 ![timeline](https://github.com/kelseydang/BENG183_Project/blob/master/BENG183_Project/timeline%20precision%20medicine.png)
 
@@ -108,7 +102,7 @@ postmenopausal women who have higher risk.
 in efforts to expand the database for precision medicine focused
 research.<sup>1</sup>
 
-## 3\.Genomic biomarkers and companion tests
+## 3\.Genomic biomarkers and companion tests （by Kelsey Dang, Katy Zou, Diego Quintero）
 
 In the first of the charts below, the most widely prescribed breast
 cancer drugs are listed along with the specific patient type targeted.
