@@ -1,7 +1,5 @@
 # An overview of bioinformatic methods for precision medicine
-
-================
-Kelsey Dang, Katy Zou, Diego Quintero
+By Kelsey Dang, Katy Zou, Diego Quintero
 
 ## 1\. Techniques/Methods
 
