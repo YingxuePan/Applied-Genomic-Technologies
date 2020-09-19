@@ -1,6 +1,8 @@
 # BENG183_FA2020
 
 ## Class handouts
+Acknowledgments: We thank BENG183 alumni: names who drafted the contents.
+
 ### Chapter1 Molecular Biology
 - [Review of Molecular Biology from 3D Genome ebook.](https://zhonglab.gitbook.io/3dgenome/chap0-preparation/0.1-molecular-biology) 
 ### Chapter2 DNA sequencing
@@ -10,6 +12,7 @@
 - [3.2 Mapping of RNA-seq data.]()
 - [3.3 Quantification of gene expression from 3D Genome ebook](https://zhonglab.gitbook.io/3dgenome/chap0-preparation/0.3-rna-seq-data-mapping-and-gene-quantification)
 - [3.4 Detection of differentially expressed genes from 3D Genome ebook](https://zhonglab.gitbook.io/3dgenome/chap0-preparation/03-rna-seq-differential-analysis)
+- [3.5 Single-cell transcriptomic analysis](https://github.com/Irenexzwen/scRNA-seq-analysis)
 ### Chapter4 ChIP-seq and data analysis
 - [4.1 ChIP-seq](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_sbeppler_attempt_2018-12-13-15-42-37_BENG183_FinalProject/final.md)
 ### Chapter5 Introduction to precision medicine
@@ -21,3 +24,5 @@
 - [6.1 The instructor’s cheat sheet to hypothesis testing]()
 ### Chapter7 Machine Learning
 - [7.1 Intro to Machine Learning](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/Derek_Jow.md)
+
+## Appendix: hands-on tutorials 
