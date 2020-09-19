@@ -26,3 +26,9 @@ Acknowledgments: We thank BENG183 alumni: names who drafted the contents.
 - [7.1 Intro to Machine Learning](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/Derek_Jow.md)
 
 ## Appendix: hands-on tutorials 
+- [1.	Data files:](https://github.com/Irenexzwen/BIOE183)
+- [2. Getting started with the Linux environment](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial1_Preparation.md)
+- [3. Working with raw RNA sequencing data](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial2_RawData.md)
+- [4. Mapping RNA-seq reads and quantifying gene expression](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial3_Mapping_and_qualification.md)
+- [5. Identifying differentially expressed genes](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial4_DE.md)
+- [6. A tutorial for writing markdown (.md) files](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/markdown_tutorial.md)
