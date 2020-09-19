@@ -17,3 +17,7 @@
 - [5.2 Precision medicine in breast cancer](https://github.com/Irenexzwen/BENG183_FA2020/blob/master/Precision_medicine_in_breast_cancer.md)
 - [5.3 Precision medicine in diabetes](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_rep002_attempt_2018-12-14-16-44-00_ReyshaPatelMarkdown/ReyshaPatelMarkdown/precisionMed.md)
 - [5.4 An overview of bioinformatic methods for precision medicine]()
+### Chapter6 Introduction to hypothesis testing
+- [6.1 The instructor’s cheat sheet to hypothesis testing]()
+### Chapter7 Machine Learning
+- [7.1 Intro to Machine Learning](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/Derek_Jow.md)
