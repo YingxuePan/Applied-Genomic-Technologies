@@ -42,11 +42,11 @@ After we align the reads to the reference genome, now we can process the data.
 
 One primary goal of RNA-seq is to understand what genes are expressed differently in experimental and control groups. This is a critical step because it narrows down the entire pool of genes down to the genes of interest, so we can investigate whether these genes cause the disease, or correlate to the disease. DE genes are expressed differently in experiment group from the control group. Their differences could be the cause of the condition. There are many available tools for calling DE genes. Bioconductor has several packages for that: Limma, DESeq2, edgeR. They use negative binomial distribution as their statistics to identify differentially expressed genes. We can specify the cutoff value as the threshold of selection. 
 
-![Figure1](Capture.JPG)
+![Figure1](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_jdl044_attempt_2018-12-14-23-52-30_Final%20Project/Final%20Project/Capture.JPG)
 
 Figure 1: This is the output of DE genes from Limma and edgeR. It contains lots of information we can work with. These tools are quite popular so there are well-developed workflows and documentation online. They are in R and are easy to use when used in Jupyter notebook. 
 
-![Figure2](Capture2.JPG)
+![Figure2](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_jdl044_attempt_2018-12-14-23-52-30_Final%20Project/Final%20Project/Capture2.JPG)
 
 Figure 2: This is an interactive mean-difference plot generated using Glimma. log-FCs versus log-CPM values of the individual values per sample for a selected gene. 
 
@@ -63,7 +63,7 @@ Characterization of DE genes with molecular functions or pathways:
 - Gene set enrichment analysis (GSEA)
 - Gene set variation analysis (GSVA)
 
-![Figure3](Capture3.JPG)
+![Figure3](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_jdl044_attempt_2018-12-14-23-52-30_Final%20Project/Final%20Project/Capture3.JPG)
 
 Figure 3: The top differential gene sets are plotted in the heatmap. The gene sets are clustered with the expression level in each functional category. This analysis allows us to easily know which pathways are different in the tumor sample from the normal sample. We can then narrow our focus of investigation on a few pathways of interest.
 
@@ -73,7 +73,7 @@ Tools for visualizaing read alignment
 - UCSC genome browser
 - Broad Institute IGV
 
-![Figure4](Capture4.JPG)
+![Figure4](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_jdl044_attempt_2018-12-14-23-52-30_Final%20Project/Final%20Project/Capture4.JPG)
 
 This is a screenshot of UCSC genome browser. Visualization gives information about the location and the distribution of the reads. We can also use it for sanity check on the data to make sure the format is correct. 
 
