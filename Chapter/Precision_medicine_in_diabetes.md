@@ -28,7 +28,7 @@ The difference between personalized medicine and precision medicine:
 >After data is obtained, the patients or disease is categorized according to the relevant features that were determined through data collection. This clustering is usually carried out using various machine learning algorithms. Finally, the appropriate treatments can be determined based on an individual basis or disease subtypes.[3]
 
 
-![](imag.png)
+![](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_rep002_attempt_2018-12-14-16-44-00_ReyshaPatelMarkdown/ReyshaPatelMarkdown/imag.png)
 An overview of the basic precision medicine protocol described above can be seen in the figure above. **Figure by Prasad, Rashmi, et al. Journal of Internal Medicine (2018).**
 
 ## 3. Diabetes and Precision Medicine<a name=”3”></a>
@@ -69,7 +69,7 @@ MARD is mild age related diabetes. It is characterized by late onset and good me
 
 Treatment: Lifestyle, Metformin.
 
-![plots](plots.png)
+![plots](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_rep002_attempt_2018-12-14-16-44-00_ReyshaPatelMarkdown/ReyshaPatelMarkdown/plots.png)
 These plots show the results of the K-means clustering algorithm that was used to create the five diesease subtypes in diabetes. **Figure by Ahlqvist, Emma, et al. The Lancet Diabetes & Endocrinology (2018)**
 
 ## 4. Benefits and Drawbacks of Precision Medicine <a name="234"></a>
