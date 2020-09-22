@@ -31,13 +31,13 @@ anonymous data. Unsupervised algorithms are used when the **grouping** of the da
 than the label themselves, and supervised algorithms are used when the type of the group provides
 more meaning.
 
-![Unsupervised vs Supervised](img/unsupvssup.JPG)
+![Unsupervised vs Supervised](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/unsupvssup.JPG)
 
 The second domain of machine learning is continuous vs discrete. **Continuous** algorithms
 have outputs on continuous, or flowing, spectrum. **Discrete** algorithms produce information in
 distinct, well-defined buckets. 
 
-![Supervised/Unsupervised Continuous/Discrete example](img/examples.PNG)
+![Supervised/Unsupervised Continuous/Discrete example](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/examples.PNG)
 
 Lastly, a machine learning algorithm could be classifying or clustering. Classification and clustering
 algorithms often answer the same question, but differ in their implementations. In general,
@@ -45,7 +45,7 @@ classification algorithms aim to find the best way to **separate** data in class
 clustering algorithms strive to **group** data into cliques. Depending on the circumstance,
 classification and clustering may give different results based on the input data.
  
-![Classification vs Clustering](img/classvsclust.png)
+![Classification vs Clustering](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/classvsclust.png)
 
 * * *
 
@@ -62,7 +62,7 @@ In RNA-Seq data, a datapoint is a multidimensional vector. Each row corresponds 
 represents an individual. Often, we use clustering algorithms to group individuals together
 who have the same variation of a disease to diagnose the best therapy.
 
-![Rna-Seq Example](img/rna-seq.png)
+![Rna-Seq Example](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/rna-seq.png)
 
 In the subsequent sections, we will examine two commonly used clustering algorithms used
 in bioinformatics.
@@ -86,7 +86,7 @@ In **hierarchical clustering**, we compute a **dendrogram** that separates data 
 also be visualized in a **heatmap** or **venn diagram**. In the above RNA-Seq example, we see that
 a dendrogram is produced above the heatmap that clusters individuals together based on similarity.
 
-![Hierarchical Clustering](img/hierImg.png)
+![Hierarchical Clustering](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/hierImg.png)
 
 The following is the general procedure of a hierarchical clustering algorithm:
 1. Calculate the similarity (distance function) between all possible combinations of two profiles
@@ -95,7 +95,7 @@ The following is the general procedure of a hierarchical clustering algorithm:
 4. Recalculate the similarity between the new cluster and all the remaining clusters.
 5. Repeat steps 3 and 4 until all of the profiles end up in one large cluster.
 
-![Hierarchical Clustering Animation](img/hClust.gif)
+![Hierarchical Clustering Animation](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/hClust.gif)
 
 In hierarchical clustering, you have several clustering methods that each use a 
 different distance function:
@@ -116,7 +116,7 @@ choose **"k"**, the number of clusters, and consequently select k points to serv
 **means** for each cluster. At each iteration, we continuously reassign points such that they are grouped
 with the clusters that minimize the point's distance to the cluster's mean.
 
-![K-Means Clustering](img/kImg.png)
+![K-Means Clustering](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/kImg.png)
 
 The following is the general procedure of the k-means clustering algorithm:
 1. Select the number of clusters K
@@ -125,7 +125,7 @@ The following is the general procedure of the k-means clustering algorithm:
 4. Assign the datum to the cluster whose mean is closest to that point
 5. Repeat steps 3 and 4 until **convergence** - when points are no longer reassigned
 
-![K-Means Clustering](img/kClust.gif)
+![K-Means Clustering](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/finalPaper/IntroToMachineLearning/img/kClust.gif)
 
 Note that K-Means clustering **does not always guarantee** termination. An upper bound for the number of iterations
 should be assigned to prevent infinite loops. Additionally, the selection of the initial points can
@@ -145,9 +145,3 @@ will become an essential component of bioinformatics as we aggregate more and mo
 biological data. Machine learning helps us deal with the information explosion of the 21st century and will
 lay the foundation for precision medicine and gene-function discovery.
 
-* * * 
-
-## Sources
-1. Sheng Zhong BENG 183
-2. Victoria Tom, Joey Sun BENG 183
-3. https://dashee87.github.io/data%20science/general/Clustering-with-Scikit-with-GIFs/
