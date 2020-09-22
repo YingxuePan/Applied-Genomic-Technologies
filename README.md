@@ -2,7 +2,8 @@
 
 
 ## Handouts
-Acknowledgments: We thank BENG183 alumni: names who drafted the contents.
+Acknowledgments: We thank BENG183 alumni: John David Lin, Samuel Beppler, Paige Dubelko, Pericles Corkos, Elisha Beebe, Mengyi Liu, Kelsey Dang, Katy Zou, Diego Quintero, Derek Jow.
+
 
 ### Chapter1 Molecular Biology
 - [Review of Molecular Biology from 3D Genome ebook.](https://zhonglab.gitbook.io/3dgenome/chap0-preparation/0.1-molecular-biology) 
