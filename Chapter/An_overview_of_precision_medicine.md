@@ -20,7 +20,7 @@ The Precision Medicine Initiative[[1](https://ghr.nlm.nih.gov/primer/precisionme
 
 The image below illustrates a general diagram [[2](https://getreferralmd.com/2018/02/precision-medicine-can-help-fix-healthcare/)] of how precision medicine can provide a custom treatment that can be applied to a smaller population experiencing a similar form of the disease rather than a general treatment for the disease.
 
-![image1](PM_diagram.jpg)
+![image1](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_ebeebe_attempt_2018-12-13-14-24-45_ElishaBeebe_Markdown/ElishaBeebe_Markdown/PM_diagram.jpg)
 
 ### 2. Difference between Personalized Medicine and Precision Medicine
 
@@ -33,7 +33,7 @@ Personalized Medicine is providing individualized treatment for a patient. This 
 Precision Medicine is a step towards personalized medicine as it utilizes more variables in order to categorize patients to provide the optimal treatment. However, it does not develop a completely individualized treatment for the patient. Though each patient is unique in their own way, the patient's form of disease may closely resemble that of other individuals with the disease. Thus, developing a drug and regime that can treat a small population rather than on the individual level would be much more time efficient and cost effective.[[3](https://www.plengegen.com/wp-content/uploads/4_Toward-Precision-Medicine.pdf)]
 
 ### 3. The Cycle of Precision Medicine
-![image2](PM_cycle.png)
+![image2](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_ebeebe_attempt_2018-12-13-14-24-45_ElishaBeebe_Markdown/ElishaBeebe_Markdown/PM_cycle.png)
 
 As shown in the diagram [[4](http://nas-sites.org/ilar-roundtable/files/2017/10/HOOK-BARNARD-NAS-PM-history-Animal-models_10-5-17v2.pdf)], precision medicine functions in a cycle as we are constantly learning new information about the genome, our environment, and medicine. As medical technologies become more advanced and accessible, we are able to gain more knowledge for disease diagnosis, treatment, and prevention. Starting from a large population, we can break down the group into individuals. From the individual, we can utilize genomic sequencing technologies and everyday lifestyle trackers to contribute to a “Knowledge Network” where scientists and doctors are able to derive information that would enable patients to develop more precise diagnostics, treatments, and prevention for a disease. This will bring us back to the categorized large population which these medical developments would be utilized.
 
@@ -48,7 +48,7 @@ For example, breast cancer is mainly caused by mutations in one of the following
 
 **Cystic Fibrosis**
 
-![image2](PM_CF.jpg)
+![image2](https://github.com/Zhong-Lab-UCSD/BENG183_FA18/blob/master/Final%20Paper%20Submission_ebeebe_attempt_2018-12-13-14-24-45_ElishaBeebe_Markdown/ElishaBeebe_Markdown/PM_CF.jpg)
 
 Another disease that benefits from precision medicine is Cystic Fibrosis. Cystic Fibrosis is a disease that can be caused by more than 2000 known mutations linked to the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein. Scientists have been able to categorize these mutations into six major subgroups based on CFTR function and expression levels (see diagram above [[6](https://www.frontiersin.org/articles/10.3389/fphar.2016.00275/full)]). Currently, the precision medicine approach allows doctors to treat 60% of CF cases. As our understanding of the CFTR mutations improve, we are able to develop more precise treatments for CF patients to improve quality of life and life expectancy [[7](https://www.sciencedirect.com/science/article/pii/S1526054217300246)].
 
