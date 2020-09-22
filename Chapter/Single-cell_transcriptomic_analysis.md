@@ -1,5 +1,5 @@
 <div><span><div style="font-size: 14px; margin: 0; padding: 0; width: 100%;"><h1 style="line-height: 160%; box-sizing: content-box; font-weight: 700; font-size: 41px; border-bottom: 3px double #999; color: #000; margin-top: 14px;">scRNA-seq experimental methods Review</h1>
-<p style="line-height: 160%; box-sizing: content-box; margin: 10px 0; color: #333;"><em style="line-height: 160%; box-sizing: content-box; font-style: italic;">Auther: Xingzhao (Irene) Wen</em><br/>
+
 <em style="line-height: 160%; box-sizing: content-box; font-style: italic;">Date: Jan 10th 2019</em></p>
 <blockquote style="line-height: 160%; box-sizing: content-box; margin: 15px 0; border-left: 4px solid #ddd; padding: 0 15px; color: #777;">
 <p style="line-height: 160%; box-sizing: content-box; margin: 10px 0; color: #333; margin-top: 0; margin-bottom: 0;">&quot; Since then, many studies have focused on cell characterisation, redefining the cell, not only as structural, but also as functional unit of life &quot; —— Arendt</p>
