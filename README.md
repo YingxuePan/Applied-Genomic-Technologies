@@ -1,6 +1,7 @@
-# BENG183_FA2020
+# Applied-Genomic-Technologies 
 
-## Class handouts
+
+## Handouts
 Acknowledgments: We thank BENG183 alumni: names who drafted the contents.
 
 ### Chapter1 Molecular Biology
