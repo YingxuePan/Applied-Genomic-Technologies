@@ -1,7 +1,6 @@
 # Applied-Genomic-Technologies 
+Compiled by Xingzhao Wen.
 
-
-## Handouts
 ### Acknowledgments
 We thank BENG183 alumni: John David Lin, Samuel Beppler, Paige Dubelko, Pericles Corkos, Elisha Beebe, Mengyi Liu, Kelsey Dang, Katy Zou, Diego Quintero, Derek Jow.
 
