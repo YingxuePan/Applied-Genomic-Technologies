@@ -32,4 +32,4 @@ We thank BENG183 alumni: John David Lin, Samuel Beppler, Paige Dubelko, Pericles
 - [3. Working with raw RNA sequencing data](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial2_RawData.md)
 - [4. Mapping RNA-seq reads and quantifying gene expression](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial3_Mapping_and_qualification.md)
 - [5. Identifying differentially expressed genes](https://github.com/Irenexzwen/BIOE183/blob/master/Tutorial4_DE.md)
-- [6. A tutorial for writing markdown (.md) files](https://github.com/Zhong-Lab-UCSD/BENG183/blob/master/markdown_tutorial.md)
+- [6. A tutorial for writing markdown (.md) files](https://github.com/Zhong-Lab-UCSD/Applied-Genomic-Technologies/blob/master/Chapter/Markdown_tutorial.md)
