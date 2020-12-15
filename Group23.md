@@ -12,4 +12,4 @@ K-Means Clustering:
 
 ## 2.\ Algorithm
 In a nutshell, K-means clustering begins with randomly selected centroids (graph b), assigns objects to the closest cluster (graph c), updates the centroids based on the current assignment of objects (graph d), and repeats the previous two steps (graph e and f) until it reaches convergence.
-![Visualization of k-means algorithm](Group23Pics\kmeansalgo.png)
+![Visualization of k-means algorithm](https://github.com/YingxuePan/Applied-Genomic-Technologies/blob/master/Group23Pics/kmeansalgo.png)
