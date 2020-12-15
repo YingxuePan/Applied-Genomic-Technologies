@@ -13,3 +13,16 @@ K-Means Clustering:
 ## 2.\ Algorithm
 In a nutshell, K-means clustering begins with randomly selected centroids (graph b), assigns objects to the closest cluster (graph c), updates the centroids based on the current assignment of objects (graph d), and repeats the previous two steps (graph e and f) until it reaches convergence.
 ![Visualization of k-means algorithm](https://github.com/YingxuePan/Applied-Genomic-Technologies/blob/master/Group23Pics/kmeansalgo.png)
+
+The pseudocode of K-means clustering is as follows:
+```
+kmeans(X: {x_1,x_2,...,x_n}, k)
+	centroids: {c_1,c_2,...,c_k} = random_points(k)
+	Y: {y_1,y_2,...,y_n} = new list(n)
+	while the clustering changes: 
+		for x_i in X:
+			y_i = closest_centroid(centroids,x_i)
+		for c_i in centroids:
+			c_i = update_centroid(Y)
+return Y
+```
